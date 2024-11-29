@@ -1,0 +1,24 @@
+body {
+  background-color: gray;
+}
+h1 {
+  text-align: center;
+}
+.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Saba {
+  text-align: center;
+}
+span {
+  font-size: 18px;
+  font-weight: 900;
+}
+.color {
+  background-color: aqua;
+}
+.yellow {
+  background-color: yellow;
+}
